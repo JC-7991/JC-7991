@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JC-7991
 - 👀 I’m interested in programming/software engineering!
-- 🌱 I’m currently learning more about the field.
+- 🌱 I’m currently looking for more experience in the job field.
 - 📫 How to reach me ... jctblock@gmail.com
 
 <!---
